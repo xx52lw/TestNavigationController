@@ -3,7 +3,7 @@
 //  TestNavigationController
 //
 //  Created by liwei on 16/6/21.
-//  Copyright © 2016年 winchannel. All rights reserved.
+//  Copyright © 2016年 liwei. All rights reserved.
 //
 
 #import "TestNavigationController.h"
